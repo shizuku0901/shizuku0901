@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi, I'm Rio 👋
+
+Incoming Computer Science student at UNSW Sydney (starting February 2027), working toward a career in ML engineering.
 
 <!--
 **shizuku0901/shizuku0901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
